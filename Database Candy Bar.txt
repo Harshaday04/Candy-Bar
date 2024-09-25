@@ -1,0 +1,113 @@
+CandyID,Name,Description,Price($),Stock,Category,Net Weight (oz)
+1,Tomb Treats Bulk Bag,Sweet and Sour gummies,10,600,Sour Bulk,8
+2,Sour Fruity Gumballs Bulk Bag,Sour fruit flavors,10,600,Sour Bulk,8
+3,Sour Strawberry Belts Bulk Bag,fruity n sour strawberry belts,10,600,Sour Bulk,8
+4,Sour Cotton Candy Belts Bulk Bag,fruity n sour cotton candy belts,10,600,Sour Bulk,8
+5,Sour Fruity Rainbow Belts Bulk Bag,sour-sweet rainbow belts,10,600,Sour Bulk,8
+6,Sour Apple Belts Bulk Bag,fruity n sour apple belts,10,600,Sour Bulk,8
+7,Sour Berry Blue Belts Bulk Bag,fruity n sour berry belts,10,600,Sour Bulk,8
+8,Sour Watermelon Belts Bulk Bag,fruity n sour watermelon belts,10,600,Sour Bulk,8
+9,Sour Fruity Mini Rainbow Belt Bites Bulk Bag,tart gummy belts in fruity flavors,10,600,Sour Bulk,8
+10,Sour Cherry Gummy Bears Bulk Bag,sour cherry gummy bears,10,600,Sour Bulk,8
+11,Sour Watermelon Bears Bulk Bag,sour watermelon gummy bears,10,600,Sour Bulk,8
+12,Sour Fruity Triple Bears Bulk Bag,three fruity flavors in each chewy n sour bite,10,600,Sour Bulk,8
+13,Sour Blue Raspberry Bears Gummy Bulk Bag,sour blue raspberry gummy bears,10,600,Sour Bulk,8
+14,Sour Fruity Neon Gummy Worms Bulk Bag,classic chewy treats,10,600,Sour Bulk,8
+15,Sour Fruity Gummy Rings Bulk Bag,terrifically tart gummy rings in 6 fruity flavors,10,600,Sour Bulk,8
+16,Sour Fruity Gummy Lightning Bolts Bulk Bag,sour gummy lightning bolts in fruity flavors,10,600,Sour Bulk,8
+17,Sour Strawberry Gummy-Mallow Sharks Bulk Bag,chewy n fruity sour sharks,10,600,Sour Bulk,8
+18,Sour Cherry Juju Fish Bulk Bag,sour version of fan-favorite gummy fish,10,600,Sour Bulk,8
+19,Sour Gummy Pineapples Bulk Bag,chewy n mouthwatering & perfect,10,600,Sour Bulk,8
+20,Sour Fruity Fizzy Gummy Ice Pops Bulk Bag,sweet & sour taste,10,600,Sour Bulk,8
+21,Sour Cola Bottles Bulk Bag,soda-shaped sour gummies in classic cola flavors,10,600,Sour Bulk,8
+22,Sour Fruity Pucker Lips Bulk Bag,Fruity n sour gummy lips are silly & fun & totally delicious,10,600,Sour Bulk,8
+23,Sour Gummy Buddies Bulk Bag,Fruity & mouthwateringly sour chews,10,600,Sour Bulk,8
+24,Cookies 'n Cream-Covered Caramel Bites Bulk Bag,Rich caramel combines perfectly with a blend of chocolate cookies & sweet cream,10,600,Chocolate Bulk,8
+25,Milk & Dark Chocolate-Covered Sea Salt Caramel Bites Bulk Bag,milk and dark chocolate-covered sea salt caramels,10,600,Chocolate Bulk,8
+26,Dark Chocolate Sea Salt Caramel Bites Bulk Bag,pretzels coated in caramel ndark chocolate and sea salt,10,600,Chocolate Bulk,8
+27,Vanilla Birthday Cake Bites Bulk Bag,delicious n white candy-coated birthday cake bites,10,600,Chocolate Bulk,8
+28,Mini Milk Chocolate-Covered Sandwich Cookies Bulk Bag,chocolate sandwich cookies,10,600,Chocolate Bulk,8
+29,Milk Chocolate-Covered Brownie Batter Bites Bulk Bag,double chocolate bites,10,600,Chocolate Bulk,8
+30,Vanilla Chocolaty Clusters Bulk Bag,smooth n sweet vanilla creme,10,600,Chocolate Bulk,8
+31,Milk Chocolaty Clusters Bulk Bag,almonds and graham cracker pieces held together with smooth n sweet milk chocolate,10,600,Chocolate Bulk,8
+32,Peanut Butter Chocolaty Clusters Bulk Bag,Graham cracker bites and pretzel pieces held together with creamy n sweet peanut butter,10,600,Chocolate Bulk,8
+33,Dark Chocolate-Covered Sea Salt Caramel Pretzels Bulk Bag,pretzels coated in caramel n dark chocolate and sea salt,10,600,Chocolate Bulk,8
+34,Mini Milk Chocolate-Covered Pretzels Bulk Bag,mini pretzels coated in smooth milk chocolate,10,600,Chocolate Bulk,8
+35,Mini Dark Chocolate-Covered Pretzels Bulk Bag,salty n sweet n creamy &amp; crunchy,10,600,Chocolate Bulk,8
+36,Mini Yogurt-Covered Pretzels Bulk Bag,Tiny pretzels covered in sweet n creamy yogurt,10,600,Chocolate Bulk,8
+37,Vanilla Creme-Covered Pretzel Balls Bulk Bag,Crunchy pretzel balls covered with creamy white chocolate & rainbow sprinkles,10,600,Chocolate Bulk,8
+38,Milk Chocolate-Covered Pretzel Balls Bulk Bag,Crunchy pretzel balls covered with creamy milk chocolate & rainbow sprinkles,10,600,Chocolate Bulk,8
+39,White Chocolate Nonpareils Bulk Bag,White chocolate discs covered with tiny sprinkles,10,600,Chocolate Bulk,8
+40,Dark Chocolate Nonpareils Bulk Bag,Dark chocolate discs covered with tiny sprinkles,10,600,Chocolate Bulk,8
+41,Chocolate 'n Peanut Butter Malt Balls Bulk Bag,Crispy n crunchy malt balls,10,600,Chocolate Bulk,8
+42,Dark Chocolate Sea Salt-Covered Cashews Bulk Bag,dark chocolate covered cashews with sea salt,10,600,Chocolate Bulk,8
+43,Milk & Dark Chocolate-Covered Fruits 'n Nuts Bulk Bag,mix of milk & dark chocolate covered nuts n dried fruit & caramels,10,600,Chocolate Bulk,8
+44,Dark Chocolate-Covered Marshmallow Twists Bulk Bag,fluffy chocolate-covered marshmallow candy,10,600,Chocolate Bulk,8
+45,Dark Chocolate-Covered Raspberry Jelly Rings Bulk Bag,dark chocolate covered raspberry jelly rings,10,600,Chocolate Bulk,8
+46,Milk Chocolate-Covered Fruity Gummy Bears Bulk Bag,Chewy n fruity gummy bears covered in creamy milk chocolate,10,600,Chocolate Bulk,8
+47,White Chocolate-Covered Fruity Gummy Bears Bulk Bag,Chewy n fruity gummy bears covered in creamy white chocolate,10,600,Chocolate Bulk,8
+48,Milk Chocolate-Covered Red Fish Bulk Bag,These fish got a tasty chocolate twist,10,600,Chocolate Bulk,8
+49,ChocoRocks,sweet n crunchy chocolate rock candy,10,600,Chocolate Bulk,8
+50,Malt Ball Madness Grab & Go Pouch,stuffed with mouthwatering malt balls,10,600,Chocolate Bulk,8
+51,Dark Chocolate-Covered Raspberry Jelly Rings Bulk Bag,dark chocolate covered raspberry jelly rings,10,600,Gummy & Jelly Bulk,8
+52,Milk Chocolate-Covered Fruity Gummy Bears Bulk Bag,Chewy n fruity gummy bears covered in creamy milk chocolate,10,600,Gummy & Jelly Bulk,8
+53,White Chocolate-Covered Fruity Gummy Bears Bulk Bag,Chewy n fruity gummy bears covered in creamy white chocolate,10,600,Gummy & Jelly Bulk,8
+54,Milk Chocolate-Covered Red Fish Bulk Bag,These fish got a tasty chocolate twist,10,600,Gummy & Jelly Bulk,8
+55,Strawberry Gummy Flamingos Bulk Bag,chewy n fruity flamingos are almost too cute to eat,10,600,Gummy & Jelly Bulk,8
+56,Raspberry Gummy-Mallow Killer Sharks Bulk Bag,Chomp into chewy and fruity blue gummy shark candy! With fruity blue tops & marshmallow bellies,10,600,Gummy & Jelly Bulk,8
+57,Raspberry Gummy-Mallow Sand Sharks Bulk Bag,Sweet n chewy sand sharks will be your new favorite treat! With colorful fruity tops & marshmallow bellies,10,600,Gummy & Jelly Bulk,8
+58,Peach Gummy Dolphins Bulk Bag,Fruity n chewy gummy dolphins,10,600,Gummy & Jelly Bulk,8
+59,Fruity Gummy Zoo Animals Bulk Bag,tangerine n raspberry n strawberry & lemon gummies,10,600,Gummy & Jelly Bulk,8
+60,3D Fruity Gummy Dinosaurs Bulk Bag,gummy dinosaurs in dino-mite fruity flavors,10,600,Gummy & Jelly Bulk,8
+61,Fruity Mini Gummy Bears Bulk Bag,mini gummy bears are the cutest treat around,10,600,Gummy & Jelly Bulk,8
+62,Strawberry Crunchy Gummy Bears Bulk Bag,sweet n crunchy rainbow treats,10,600,Gummy & Jelly Bulk,8
+63,Fruity Gummy Bears Bulk Bag,bright n chewy gummy bears in flavors like pink grapefruit & mango & lemon & pineapple & strawberry & more,10,600,Gummy & Jelly Bulk,8
+64,Fruity Two-Tone Gummy Bears Bulk Bag,adorable n fruit-flavored gummy bears wearing vanilla-flavored chef hats,10,600,Gummy & Jelly Bulk,8
+65,Assorted Swedish Fish Bulk Bag,chewy n fruity flavors of colorful Swedish fish,10,600,Gummy & Jelly Bulk,8
+66,Fruity Gummy Ocean Creatures Mix Bulk Bag,adorable assortment of sea creatures in fruity flavors,10,600,Gummy & Jelly Bulk,8
+67,Mini Swedish Fish Bulk Bag,mini versions of the iconic berry-flavored gummy fish,10,600,Gummy & Jelly Bulk,8
+68,Fruity Mini Rainbow Gummy Butterflies Bulk Bag,These itty-bitty butterflies are the cutest treat,10,600,Gummy & Jelly Bulk,8
+69,Fruity Gummy Worms Bulk Bag,bulk pouch of colorful gummy worms,10,600,Gummy & Jelly Bulk,8
+70,Haribo Gummy Twin Snakes Bulk Bag,Coiled gummy snakes in a mix of sss-weet & sss-our fruity flavors,10,600,Gummy & Jelly Bulk,8
+71,Haribo Gummy Cherries Bulk Bag,These chewy treats are perfect on top of cupcakes or as a snack any time of day.,10,600,Gummy & Jelly Bulk,8
+72,Gummy Red Hot Chili Peppers Bulk Bag,Cherry-flavored gummy peppers with a spicy kick,10,600,Gummy & Jelly Bulk,8
+73,Fruity Gummy Ice Cream Cones Bulk Bag,Pastel gummy ice cream cones in yummy n fruity flavors,10,600,Gummy & Jelly Bulk,8
+74,Cola Gummy Bottles Bulk Bag,This is one soda you won t have to ditch at security,10,600,Gummy & Jelly Bulk,8
+75,Fruity Wax Bottles Bulk Bag,Retro wax bottles in fruity flavors will bring out smiles in young & old alike!,10,600,Gummy & Jelly Bulk,8
+76,3D Fruity Gummy Robots Bulk Bag,chewy n gummy robots in 5 fruity flavors,10,600,Gummy & Jelly Bulk,8
+77,Berries 'n Cream Gummy Triple Hearts Bulk Bag,Take the resealable pouch to the movies n on a trip or anywhere you might need a sugar rush.,10,600,Gummy & Jelly Bulk,8
+78,Watermelon Gummy Rings Bulk Bag,Get your watermelon fix with chewy n tasty gummy rings,10,600,Gummy & Jelly Bulk,8
+79,Peach Gummy Rings Bulk Bag,Our resealable pouch makes it easy to take these chewy n sweet treats on the go for whenever cravings strike.,10,600,Gummy & Jelly Bulk,8
+80,Green Apple Gummy Rings Bulk Bag,green apple fix with chewy n tasty gummy rings,10,600,Gummy & Jelly Bulk,8
+81,Tropical Fruit Gummy Drops Bulk Bag,bold tropical flavor in one colorful n chewy bite,10,600,Gummy & Jelly Bulk,8
+82,Sour Cherry Gummy Bears Bulk Bag,Our sour cherry gummy bears are bear-y delicious,10,600,Gummy & Jelly Bulk,8
+83,Sour Watermelon Bears Bulk Bag,Our sour watermelon gummy bears are bear-y delicious,10,600,Gummy & Jelly Bulk,8
+84,Sour Fruity Triple Bears Bulk Bag,Three fruity flavors in each chewy n sour bite,10,600,Gummy & Jelly Bulk,8
+85,Sour Blue Raspberry Bears Gummy Bulk Bag,Our sour blue raspberry gummy bears are bear-y delicious,10,600,Gummy & Jelly Bulk,8
+86,Sour Fruity Gummy Bears Bulk Bag,Our Sour Fruity Gummy Bears Bulk Bag is filled with unbearably adorable sour gummy bears in fruity flavors,10,600,Gummy & Jelly Bulk,8
+87,Sour Fruity Gummy Lightning Bolts Bulk Bag,Our Sour Fruity Gummy Lightning Bolts Bulk Bag is filled with a striking selection of sour gummy lightning bolts in fruity flavors,10,600,Gummy & Jelly Bulk,8
+88,Whirly Pop,the Whirly Pop  invokes nostalgic happiness upon first glance,4,600,Lollipops & Rock Candy & Kebobs,3.52
+89,Dog Candy Climber Pop,mini plush dog comes wrapped around a tasty rainbow lollipop,13,600,Lollipops n Rock Candy & Kebobs,4.52
+90,Monkey Candy Climber Pop,Soft n cuddly and ready-to-gift this mini plush monkey comes wrapped around a tasty rainbow lollipop,13,600,Lollipops & Rock Candy & Kebobs,5.52
+91,Triple Chocolate Popcorn,Crunchy treat is coated in dark & white & milk chocolate,9,600,Chocolate & Gourmet,7
+92,Chocolate Caramel Sea Salt Popcorn,This crunchy treat is coated with delicious chocolate and caramel & then dusted with sea salt,9,600,Chocolate & Gourmet,7
+93,S'mores Popcorn,This crunchy treat is mixed with crushed graham crackers and mini marshmallows,9,600,Chocolate & Gourmet,7
+94,Vanilla and Dark Chocolate Potato Chip Popcorn,Crunchy treat is mixed with pretzels and potato chips,9,600,Chocolate & Gourmet ,7
+95,Funnel Cake Popcorn,Crunchy treat is dusted with cinnamon and powdered sugar,9,600,Chocolate & Gourmet,7
+96,Polka Dots Mix in Cupcake,Polka Dots Mix in Cupcake carries a cute & curated mix of confections,28,600,Chocolate & Gourmet,21.4
+97,Cotton Candy Tub,This is a classic vanilla pink candy floss,6,600,Cotton Candy,1.75
+98,Rainbow Cotton Candy Cake,a great gift for a cotton candy lover and an instant centerpiece for any special occasion n this pretty n pastel cake is sure to be the hit of the party.,125,600,Cotton Candy,14
+99,Freeze-Dried Peach Rings,Freeze-Dried Peach Rings bag is filled with crunchy n peach-flavored gummy rings that melt in your mouth,10,600,Freeze Dried,1.76
+100,Freeze-Dried Sour Candy,Freeze-Dried Sour Candy bag is filled with sour n chewy candies with a crunchy sugar shell,10,600,Freeze Dried,4.25
+101,Freeze-Dried Sour Gummy Worms,Freeze-Dried Sour Gummy Worms bag is filled with crunchy n tangy & fruity gummy worms that melt in your mouth,10,600,Freeze Dried,1.48
+102,Freeze-Dried Fruity Candy,Freeze-Dried Fruity Candy bag is filled with fruity n chewy candies with a crunchy sugar shell,10,600,Freeze Dried,3.74
+103,Freeze-Dried Hard Candy,Freeze-Dried Hard Candy bag is filled with fruity hard candies that melt in your mouth,10,600,Freeze Dried,1.23
+104,Freeze-Dried Taffy Bars,Freeze-Dried Taffy Bars bag is filled with crunchy n fruity and tangy taffy bars that melt in your mouth,10,600,Freeze Dried,2.23
+105,Toasted Coconut 'n Creme Bar,Our Vanilla Cr me Bar pairs perfectly with toasted coconut in our Toasted Coconut 'n Cr me Bar,3.75,600,Nostalgia,2
+106,Dark Chocolate Macaroon Bar,Belgian Dark Chocolate Bar is marvelously mixed with coconut and vanilla cookie crumbs in our Dark Chocolate Macaroon Bar,3.75,600,Nostalgia,2
+107,Oatmeal Raisin Cookies 'n Creme Bar,Our Vanilla Cr me Bar pairs perfectly with raisins n oats and vanilla cookie crumbs in our Oatmeal Raisin Cookies  n Creme Bar,3.75,600,Nostalgia,2
+108,Toasted Graham Cereal 'n Creme Bar,Our Vanilla Cr me Bar pairs perfectly with honey-flavored cereal and graham crackers in our Toasted Graham Cereal  n Creme Bar,3.75,600,Nostalgia,2
+109,Cannoli 'n Creme Bar,Our Vanilla Cr me Bar pairs perfectly with cinnamon & French vanilla & cannoli bites in our Cannoli 'n Creme Bar,3.75,600,Nostalgia,2
+110,Milk Chocolate Red Velvet Bar,Our Belgian Milk Chocolate bar is marvelously mixed with red velvet & marshmallows in our Milk Chocolate Red Velvet Bar,3.75,600,Nostalgia,2
+111,Vanilla Cake Bar,Our smooth Belgian white chocolate bar is marvelously mixed with colorful sprinkles for a sweet celebratory treat,3.75,600,Nostalgia,2
+112,Waffle Smash Cake,our Waffle Smash Cake to reveal a waffle cone filled with sweet and salty treats,35,600,Chocolate & Gourmet,10
