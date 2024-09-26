@@ -3,15 +3,24 @@
 #include <ctype.h>
 #include "usermanagement.h"
 
-// Add a new user
+// Add a new user and save to a file
 int addUser(User users[], int *userCount, char *username, char *firstName, char *lastName, char *dob, char *mobile, char *email, char *password) {
+    FILE *file = fopen("RegisteredUsers.txt", "a");  // Open file in append mode
+    if (file == NULL) {
+        printf("Error opening file!\n");
+        return 0;
+    }
+
+    // Check if the username already exists
     for (int i = 0; i < *userCount; i++) {
         if (strcmp(users[i].username, username) == 0) {
             printf("Username already exists!\n");
+            fclose(file);  // Close the file before returning
             return 0;
         }
     }
 
+    // Add the new user to the array
     users[*userCount].userId = *userCount + 1;
     strcpy(users[*userCount].username, username);
     strcpy(users[*userCount].firstName, firstName);
@@ -22,8 +31,22 @@ int addUser(User users[], int *userCount, char *username, char *firstName, char 
     strcpy(users[*userCount].password, password);
     users[*userCount].isLoggedIn = 0;
 
+    // Write the user details to the file (in CSV format for easy readability)
+    fprintf(file, "%d,%s,%s,%s,%s,%s,%s,%s\n", 
+            users[*userCount].userId, 
+            users[*userCount].username, 
+            users[*userCount].firstName, 
+            users[*userCount].lastName, 
+            users[*userCount].dob, 
+            users[*userCount].mobile, 
+            users[*userCount].email, 
+            users[*userCount].password);
+
+    // Increment user count
     (*userCount)++;
     printf("User added successfully. Please login.\n");
+
+    fclose(file);  // Close the file
     return 1;
 }
 
